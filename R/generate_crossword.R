@@ -1,3 +1,11 @@
+#' xword_gen
+#'
+#' @param words character vector of words to put on grid
+#' @param clues character vector of clues for words
+#' @param tries number of tries to build script
+#'
+#' @export
+#'
 xword_gen <- function(words, clues = words, tries = 10){
   
   # push data to V8
