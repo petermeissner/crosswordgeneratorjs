@@ -4,10 +4,12 @@
 \alias{print.xword_js}
 \title{print.xword_js}
 \usage{
-\method{print}{xword_js}(x)
+\method{print}{xword_js}(x, ...)
 }
 \arguments{
 \item{x}{data to transformed}
+
+\item{...}{not used, only here to mirror generic}
 }
 \description{
 print.xword_js

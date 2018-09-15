@@ -1,6 +1,6 @@
 Package: crosswordgeneratorjs
 Type: Package
-Title: Gerating Crosswords via Crossword-Generator.js Library.
+Title: Gerating Crosswords via Crossword-Generator.js Library
 Version: 0.1.0
 Author: c(
     person(
