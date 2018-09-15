@@ -18,7 +18,7 @@ Author: c(
   )
 Maintainer: Peter Meissner <retp.meissner@gmail.com>
 Description: A simple wrapper around the crossword-generator.js library executing 
-    JS-code via V8. The package enables users to generate crossword grid from
+    JS-code via V8. The package enables users to generate crossword grids from
     word lists. 
 License: MIT + file LICENSE
 Encoding: UTF-8
@@ -26,3 +26,5 @@ LazyData: true
 RoxygenNote: 6.1.0
 Imports: 
     V8
+Suggests: 
+    covr
